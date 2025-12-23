@@ -60,7 +60,7 @@ This project focuses on **Memory Management** and **Physics Stability**.
 3.  **Play**: Press the Play button in the Editor.
 
 ## 📄 License
-This project is for educational purposes as part of a Unity Developer portfolio.
+This project is for educational purposes as part of a Unity Developer Project.
 
 ---
-*Developed by [Your Name]*
+*Developed by Sagnik Dasgupta*
