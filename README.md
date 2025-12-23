@@ -1,4 +1,4 @@
-# 🏏 Cricket Bowling System (Physics Prototype)
+# 🏏 Cricket Bowling System
 
 ![Unity](https://img.shields.io/badge/Unity-6%20%2F%202022.3%2B-black?style=flat&logo=unity)
 ![Language](https://img.shields.io/badge/Language-C%23-blue)
